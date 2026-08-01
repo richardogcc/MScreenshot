@@ -1,0 +1,8 @@
+{
+  "name": "MScreenshot",
+  "bundleId": "com.richardogcc.mscreenshot",
+  "description": "Menu bar screenshot app for macOS with in-place annotation editing, blur, shapes and configurable hotkeys.",
+  "repo": "richardogcc/MScreenshot",
+  "minMacOS": "14.0",
+  "artifact": "MScreenshot-{version}.dmg"
+}
